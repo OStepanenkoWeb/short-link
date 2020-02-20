@@ -1,0 +1,8 @@
+{
+  "port": 5000,
+  "mongoUrl": "mongodb+srv://mast:s2w2e3d3@cluster0-kvcip.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "error_email": "Некорректный email",
+  "error_password": "Минимальная длина пароля - 6 символов",
+  "jwtSecret": "s2w2e3d3",
+  "baseUrl": "http://localhost:5000"
+}
